@@ -1,0 +1,13 @@
+lesson 3 
+
+math
+
+to raise something to the power, we use a double *. Therefrore ** 
+
+for example: $z = $x ** $y
+== $z = $x^$y 
+
+let $x = 5 & $y = 2 
+therefore $z = 25
+
+bidmas () ** * / % + -  
