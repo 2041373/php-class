@@ -1,8 +1,3 @@
-<?php 
-    echo "Hello Nazar! <br>";
-    echo "Add < br > for a new line";
-?>
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -11,9 +6,11 @@
     <title>Document</title>
 </head>
 <body>
-    <br>
-    <button>Click me</button>
-
+    
 
 </body>
 </html>
+
+<?php 
+
+?>

@@ -1,0 +1,11 @@
+lesson 7 
+
+logical operators 
+
+are used to help with conditions 
+
+for example 
+
+! not 
+&& and 
+|| or 

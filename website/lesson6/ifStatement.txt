@@ -1,0 +1,5 @@
+Lesson 6 
+    If Statement
+
+if statement = if statement condition true then do 
+

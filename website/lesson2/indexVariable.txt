@@ -1,2 +1,4 @@
 Variables in PHP 
 
+ echo " To add a String Variable you type: $-name without a dash <br>";
+ echo  "To echo directly it is called String Literal <br>";
